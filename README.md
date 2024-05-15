@@ -45,7 +45,7 @@ git clone https://github.com/BaraSedih11/Feature-Scaling.git
 2. Navigate to the repository directory:
 
 ```bash
-cd Feature Scaling
+cd Feature-Scaling
 ```
 
 3. Open and run the Jupyter Notebook `Feature Scaling.ipynb` using Jupyter Notebook or JupyterLab.
